@@ -1,0 +1,74 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom contact form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-30 08:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+"X-Domain: custom-contact-form"
+
+#: admin/admin.php:22
+msgid "Contacts list"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Custom contact form"
+msgstr ""
+
+#: admin/admin.php:30 admin/admin.php:66
+msgid "Date"
+msgstr ""
+
+#: inc/render_shortcode.php:15 admin/admin.php:28 admin/admin.php:64
+msgid "Email"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://t.me/Maryna_Far"
+msgstr ""
+
+#. Author of the plugin
+msgid "Maryna Fartushna"
+msgstr ""
+
+#: inc/render_shortcode.php:30
+msgid "Message Not Sent, There is some error."
+msgstr ""
+
+#: inc/render_shortcode.php:26
+msgid "Message Sent Successfully"
+msgstr ""
+
+#: inc/render_shortcode.php:11 admin/admin.php:27 admin/admin.php:63
+msgid "Name"
+msgstr ""
+
+#: inc/render_shortcode.php:19 admin/admin.php:29 admin/admin.php:65
+msgid "Phone"
+msgstr ""
+
+#: inc/render_shortcode.php:23
+msgid "Send"
+msgstr ""
+
+#: inc/render_shortcode.php:16
+msgid "Type a valid email"
+msgstr ""
+
+#: inc/render_shortcode.php:12
+msgid "Type your name"
+msgstr ""
+
+#: inc/render_shortcode.php:20
+msgid "Type your phone"
+msgstr ""
