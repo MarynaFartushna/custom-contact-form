@@ -6,7 +6,7 @@ function ccf_render_shortcode() {
 
     <div class="ccf_wrapper">
 
-        <form action="" method="post" id="ccf">
+        <form action="" method="post" id="custom-contact-form">
             <div class="form-field">
                 <label><?php _e( 'Name', 'ccf' ); ?>: </label>
                 <input name="name" type="text" placeholder="<?php _e( 'Type your name', 'ccf' ); ?>" required>
